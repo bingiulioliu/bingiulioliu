@@ -9,6 +9,8 @@ For several years, I worked in the administrative and accounting field. It was a
 
 Deciding to step away from a conventional career to dedicate myself to programming wasn't just a professional choice—it was a personal one. I wanted to move from "keeping track of things" to "bringing things to life." Today, I am pursuing this path with the same dedication I’ve always had, but with the added joy of doing work that genuinely ignites my curiosity.
 
+---
+
 ### 🛠 My Toolkit
 
 **Languages:**
@@ -25,7 +27,6 @@ Deciding to step away from a conventional career to dedicate myself to programmi
 **Databases:**
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
----
 
 ### 📚 Currently Learning & Exploring
 I am constantly expanding my technical horizons with these technologies:
@@ -36,6 +37,8 @@ I am constantly expanding my technical horizons with these technologies:
 
 **Databases:**
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
 
 ### 🔌 Beyond the Code
 When I'm not writing code, I feed my curiosity through my passions:
